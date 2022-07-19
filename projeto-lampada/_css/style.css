@@ -1,0 +1,25 @@
+header, main{
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana;
+    font-style: bold;
+    color: darkblue;
+    text-align: center;
+}
+
+button{
+    width: 80px;
+    font-family: Verdana;
+}
+
+footer{
+    margin: 80px;
+    font-family: Verdana;
+    font-size: 10px;
+    text-align: center;
+}
